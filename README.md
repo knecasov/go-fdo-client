@@ -1,4 +1,5 @@
 # FIDO Device Onboard - Go Client
+<!-- test coverage baseline -->
 
 `go-fdo-client` is a client implementation of FIDO Device Onboard specification in Go using [FDO GO protocols.](https://github.com/fido-device-onboard/go-fdo)
 
